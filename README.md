@@ -4,7 +4,9 @@
 
 
 
-<center><b>Providing end-to-end automation support for AIOps model development in microservice scenarios</b> </center>
+<div style="text-align:center">
+  <b>Providing end-to-end automation support for AIOps model development in microservice scenarios</b>
+</div>
 
 <img src="images/microops-pipeline.png" alt="microops-pipeline"  />
 
